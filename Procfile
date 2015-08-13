@@ -1,1 +1,1 @@
-web: chmod 777 bin/hubot && bin/hubot -a slack
+web: bin/hubot -a slack
