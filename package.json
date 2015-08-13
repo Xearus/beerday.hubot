@@ -2,8 +2,8 @@
   "name": "beer",
   "version": "0.0.0",
   "private": true,
-  "author": "francis.gagnon.globe@gmail.com",
-  "description": "One true god",
+  "author": "dokku@beerday.xearus.me",
+  "description": "42",
   "dependencies": {
     "hubot": "^2.13.2",
     "hubot-diagnostics": "0.0.1",

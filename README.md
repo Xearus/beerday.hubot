@@ -1,5 +1,3 @@
-
-    "hubot-redis-brain": "0.0.3",
 # beer
 
 beer is a chat bot built on the [Hubot][hubot] framework. It was
