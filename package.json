@@ -5,6 +5,7 @@
   "author": "dokku@beerday.xearus.me",
   "description": "42",
   "dependencies": {
+	"coffee-script": "^1.9.3",
     "hubot": "^2.13.2",
     "hubot-diagnostics": "0.0.1",
     "hubot-google-images": "^0.1.5",
