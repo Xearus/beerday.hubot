@@ -5,7 +5,7 @@
   "author": "dokku@beerday.xearus.me",
   "description": "42",
   "dependencies": {
-    "beer-cah": "^0.1.3",
+    "beer-cah": "^0.1.4",
     "coffee-script": "^1.9.3",
     "hubot": "^2.16.0",
     "hubot-diagnostics": "0.0.1",
